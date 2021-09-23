@@ -18,14 +18,4 @@ Installation :
                python3 Checker.py
                
 
-📧 Contact :
-------
-You Want Ask About All My Tools Or Buy Tools/Exploits Private Add Me On : 
-```
-[+] Email : aron.tn.official@gmail.com
-[+] facebook : https://www.facebook.com/amyr.gov.tn
-[+] ICQ: @aron_tn
-[+] Telegram : @aron_tn 
-```
-
 <br>©2020 Aron-Tn
